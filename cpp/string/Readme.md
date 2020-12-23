@@ -4,4 +4,5 @@
 <heading>QUESTIONS LIST</heading>
 <li>1-valid parenthesis</li>
 <li>2-roman to int</li>
+  <li>3-reverse a string</li>
 </ul>
