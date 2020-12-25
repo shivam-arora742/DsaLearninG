@@ -5,6 +5,7 @@ this repository is to store  journey(questions&amp; concepts ) of DSA LEarning
 <ul>
   <li>1-array.</li>
   <li>2-string.</li>
+  <li>3-bit magic.</li>
 <br>
   <hr>
   <h2>MOSTLY CODING IS DONE USING CPP </h2>
