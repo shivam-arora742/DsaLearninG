@@ -2,8 +2,9 @@
 <p>IT INCLUDES CONCEPTS& QUESTIONS RELATED TO STRINGS(DSA CONCEPT).</p>
 <ul>
 <heading>QUESTIONS LIST</heading>
-<li>1-valid parenthesis</li>
-<li>2-roman to int</li>
-  <li>3-reverse a string</li>
-  <li>4-Anagram string</li>
+<li>valid parenthesis</li>
+<li>roman to int</li>
+  <li>reverse a string</li>
+  <li>Anagram string</li>
+  <li>add-binary-strings</li>
 </ul>
