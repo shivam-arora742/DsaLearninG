@@ -9,6 +9,7 @@ this repository is to store  journey(questions&amp; concepts ) of DSA LEarning
   <li>4-sorting algorithms & codes.</li>
   <li>5-Linked List</li>
   <li>6-STACK</li>
+  <li>7-Recursion</li>
 <br>
   <hr>
   <h2>MOSTLY CODING IS DONE USING CPP </h2>
