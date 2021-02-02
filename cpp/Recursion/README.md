@@ -9,5 +9,8 @@
 <hr>
 <header>Question list:</header>
 <ul>
-<li></li>
+  <li>Add all numbers till n</li>
+  <li>Calculate n raise to pwer p</li>
+  <li>Factorial of a number</li>
+  <li>Print n<sup>th</sup> fibonacci number</li>
 <ul>
