@@ -13,4 +13,5 @@
   <li>Calculate n raise to pwer p</li>
   <li>Factorial of a number</li>
   <li>Print n<sup>th</sup> fibonacci number</li>
+  <li>IS LUCKY NUMBER</li>
 <ul>
