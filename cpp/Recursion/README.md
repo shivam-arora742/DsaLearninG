@@ -1,6 +1,6 @@
 <h1>RECURSION</h1>
 <p>refers to as a function that calls itself repeatedly, to make problem smaller & simpler.</p>
-<header><mark>Recursion Process</mark></header>
+<header>Recursion Process:</header>
 <ul>
 <li>Base Case</li>
 <li>Small Answer</li>
