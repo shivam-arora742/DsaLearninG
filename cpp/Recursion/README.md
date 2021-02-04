@@ -7,7 +7,7 @@
 <li>Conclusion</li>
 </ul>
 <hr>
-<header>Question list:</header>
+<h2>Question List:</h2>
 <ul>
   <li>Add all numbers till n</li>
   <li>Calculate n raise to pwer p</li>
