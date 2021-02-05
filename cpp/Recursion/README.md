@@ -17,5 +17,6 @@
   <li>IS LUCKY NUMBER</li>
   <li>Print number till 'n' in ascending order</li>
   <li>Print number till 'n' in descending order</li>
-  <li></li>
+  <li>Powers of Number</li>
+  <li>Replace PI with 3.14</li>
 <ul>
