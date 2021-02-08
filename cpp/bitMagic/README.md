@@ -16,8 +16,7 @@
 <UL>
 <LI>check if no is power of 2 or not</LI>
  <LI>count no of set bits in a binary number</LI>
-</UL>
-<h2>BIT MAGIC QUESTIONS</h2>
-<UL>
-<LI>hamming-distange</LI>
+ <LI>hamming-distance</LI>
+ <LI>Single Number</LI>
+ <LI>Generate all subsets of set {a,b,c}</LI>
 </UL>
