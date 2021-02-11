@@ -20,4 +20,5 @@
  <LI>Single Number</LI>
  <LI>Generate all subsets of set {a,b,c}</LI>
  <LI>Number is Sparse or Not?</Li>
+ <LI>Major Element</Li>
 </UL>
