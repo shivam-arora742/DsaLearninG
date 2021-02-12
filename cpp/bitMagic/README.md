@@ -21,4 +21,5 @@
  <LI>Generate all subsets of set {a,b,c}</LI>
  <LI>Number is Sparse or Not?</Li>
  <LI>Major Element</Li>
+ <LI>Bit difference to convert from A to B</LI>
 </UL>
