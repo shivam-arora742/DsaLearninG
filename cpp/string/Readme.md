@@ -7,4 +7,5 @@
   <li>reverse a string</li>
   <li>Anagram string</li>
   <li>add-binary-strings</li>
+  <li>Missing Character In Panagram</li>
 </ul>
