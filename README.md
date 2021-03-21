@@ -10,8 +10,10 @@ this repository is to store  journey(questions&amp; concepts ) of DSA LEarning
   <li>5-Linked List</li>
   <li>6-STACK</li>
   <li>7-Recursion</li>
+  <li>8-Queue</li>
 <br>
   <hr>
-  <h2>MOSTLY CODING IS DONE USING CPP </h2>
+  <h2>MOSTLY CODING IS DONE USING CPP or C language. </h2>
+  <h3>EDITOR: VSCODE & CODE::BLOCKS </h3>
 <hr>
   <p>Author-Shivam Arora</p>
