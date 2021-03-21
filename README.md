@@ -14,6 +14,6 @@ this repository is to store  journey(questions&amp; concepts ) of DSA LEarning
 <br>
   <hr>
   <h2>MOSTLY CODING IS DONE USING CPP or C language. </h2>
-  <h3>EDITOR: VSCODE & CODE::BLOCKS </h3>
+  <h3>CODE EDITORS: VSCODE & CODE::BLOCKS </h3>
 <hr>
   <p>Author-Shivam Arora</p>
