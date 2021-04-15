@@ -4,6 +4,6 @@
   <li>INSERTION SORT SORT</li>
   <li>SELECTION SORT</li>
   <li>SHELL SORT</li>
-  
+  <li>Quick Sort(Divide and Conquer) </li>
   
 </ul>
