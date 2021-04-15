@@ -1,3 +1,4 @@
+//Based on Divide and Conquer Technique and is in-place sorting method.
 #include<iostream>
 using namespace std;
 
@@ -36,3 +37,6 @@ for(int i=0;i<5;i++){
 }
 return 0;
 }
+//Time Analysis:
+//worst case:O(n^2)
+// best case:O(n logn)
