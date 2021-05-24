@@ -9,4 +9,5 @@
 <li>DETERMINE OCCURANCE OF ELEMENT IN A  LINKED LISTS</li>
 <li>PAIRWISE SWAP NODES OF A LINKED-LIST</li>
 <li>Add Numbers Using List</li>
+<li>Detection OF Loop In List </li>
 </ul>
