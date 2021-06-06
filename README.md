@@ -14,6 +14,7 @@ this repository is to store  journey(questions&amp; concepts ) of DSA LEarning
   <li>9-Greedy Technique</li>
   <li>10-Tree-DS</li>
   <li>11-STL</li>
+  <li>12-BACKTRACKING</li>
 <br>
   <hr>
   <h2>MOSTLY CODING IS DONE USING CPP or C language. </h2>
