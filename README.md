@@ -16,6 +16,10 @@ this repository is to store  journey(questions&amp; concepts ) of DSA LEarning
   <li>11-STL</li>
   <li>12-BACKTRACKING</li>
   <li>13-DYNAMIC PROGRAMMING</li>
+  <li>14-MATRIX/2D-ARRAY</li>
+   <li></li>
+   <li></li>
+   <li></li>
 <br>
   <hr>
   <h2>MOSTLY CODING IS DONE USING CPP or C language. </h2>
