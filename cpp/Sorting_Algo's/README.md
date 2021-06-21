@@ -5,5 +5,6 @@
   <li>SELECTION SORT</li>
   <li>SHELL SORT</li>
   <li>Quick Sort(Divide and Conquer) </li>
+  <li>Merge Sort(D&C)</li>
   
 </ul>
