@@ -11,4 +11,5 @@
   <li>Ransome_Note-lEEtcode</li>
   <li>Remove Duplicates-String</li>
   <li>Swap Strings</li>
+  <li>FIRST-UNIQUE-CHARACTER IN STRING.</li>
 </ul>
