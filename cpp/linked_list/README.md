@@ -11,4 +11,5 @@
 <li>Add Numbers Using List</li>
 <li>Detection OF Loop In List </li>
 <li>MIDDLE OF THE LIST</li>
+<li>ODD EVEN LIST</li>
 </ul>
