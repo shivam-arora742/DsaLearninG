@@ -12,4 +12,5 @@
   <li>Remove Duplicates-String</li>
   <li>Swap Strings</li>
   <li>FIRST-UNIQUE-CHARACTER IN STRING.</li>
+  <li>LONGEST COMMON PREFIX -VECTOR STRINGS</li>
 </ul>
