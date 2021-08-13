@@ -4,6 +4,6 @@
 <ul>
   <li>BST Implementation.</li>
   <li>BST-MIN & MAX ELEMENT.  </li>
-  <li></li>
+  <li>Height of Binary Tree .</li>
   <li></li>
 </ul>  
