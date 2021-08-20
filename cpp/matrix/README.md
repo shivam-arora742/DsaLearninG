@@ -5,5 +5,5 @@
   <li>Max-Customer-Wealth(Leetcode)</li>
   <li>Adding Two Matrices (GFG-easy)</li>
   <li>Sub-Rectangle-Queries(Leetcode-Medium)</li>
-  <li></li>
+  <li>Valid-Sudoku(Leetcode-Medium)</li>
 </ul>
