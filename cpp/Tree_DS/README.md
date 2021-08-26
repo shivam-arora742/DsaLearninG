@@ -5,5 +5,5 @@
   <li>BST Implementation.</li>
   <li>BST-MIN & MAX ELEMENT.  </li>
   <li>Height of Binary Tree .</li>
-  <li></li>
+  <li>Level Order Traversal of Binary Tree.</li>
 </ul>  
