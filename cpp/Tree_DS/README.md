@@ -6,4 +6,5 @@
   <li>BST-MIN & MAX ELEMENT.  </li>
   <li>Height of Binary Tree .</li>
   <li>Level Order Traversal of Binary Tree.</li>
+  <li>DFS -Tree-Traversal (Preorder,Inorder,Postorder)</li>
 </ul>  
