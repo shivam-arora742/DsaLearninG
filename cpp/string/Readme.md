@@ -13,4 +13,7 @@
   <li>Swap Strings</li>
   <li>FIRST-UNIQUE-CHARACTER IN STRING.</li>
   <li>LONGEST COMMON PREFIX -VECTOR STRINGS</li>
+  <li>Validate-IP Address(gfg-string-medium)</li>
+  <li></li>
+  <li></li>
 </ul>
