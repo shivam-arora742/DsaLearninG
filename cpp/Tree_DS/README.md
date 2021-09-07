@@ -7,4 +7,5 @@
   <li>Height of Binary Tree .</li>
   <li>Level Order Traversal of Binary Tree.</li>
   <li>DFS -Tree-Traversal (Preorder,Inorder,Postorder)</li>
+  <li>Check if a Binary tree isBST?</li>
 </ul>  
