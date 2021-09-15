@@ -23,4 +23,5 @@
  <LI>Major Element</Li>
  <LI>Bit difference to convert from A to B</LI>
  <li>Add 2 integers with (+) & (-) .</li>
+ <li>Counting SetBits-LeetCode-Easy</li>
 </UL>
