@@ -8,4 +8,5 @@
   <li>Level Order Traversal of Binary Tree.</li>
   <li>DFS -Tree-Traversal (Preorder,Inorder,Postorder)</li>
   <li>Check if a Binary tree isBST?</li>
+  <li>Inorder Successor of BST</li>
 </ul>  
