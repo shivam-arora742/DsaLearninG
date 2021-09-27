@@ -93,7 +93,6 @@ Node* InorderSuccessor(Node* root, int data){
         return successor;
     }
 
-
 }
 
 int main(){
@@ -111,3 +110,5 @@ root=insert_node(root,20);
 Node* res=InorderSuccessor(root,10);
 cout<<res->data;
 }
+
+// time complexity: O(height of tree=logn).
