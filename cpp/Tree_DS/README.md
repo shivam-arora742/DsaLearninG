@@ -9,4 +9,5 @@
   <li>DFS -Tree-Traversal (Preorder,Inorder,Postorder)</li>
   <li>Check if a Binary tree isBST?</li>
   <li>Inorder Successor of BST</li>
+  <li>Count Leaves in Binary Tree.</li>
 </ul>  
