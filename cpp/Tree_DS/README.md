@@ -10,4 +10,5 @@
   <li>Check if a Binary tree isBST?</li>
   <li>Inorder Successor of BST</li>
   <li>Count Leaves in Binary Tree.</li>
+  <li>Max Depth of Binary Tree</li>
 </ul>  
