@@ -11,4 +11,5 @@
   <li>Inorder Successor of BST</li>
   <li>Count Leaves in Binary Tree.</li>
   <li>Max Depth of Binary Tree</li>
+  <li>Sorted Array to BST(Leetcode-Easy)</li>
 </ul>  
