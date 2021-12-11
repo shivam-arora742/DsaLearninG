@@ -10,4 +10,5 @@
   <li>Remove Outer Parenthesis:</li>
   <li>Remove Adjacent Duplicates :</li>
   <li>Backspace String Compare</li>
+  <li>Sort a Stack </li>
 </ul>
