@@ -6,4 +6,5 @@
   <li>Adding Two Matrices (GFG-easy)</li>
   <li>Sub-Rectangle-Queries(Leetcode-Medium)</li>
   <li>Valid-Sudoku(Leetcode-Medium)</li>
+  <li>Flipping an Image-Leetcode-Matrix</li>
 </ul>
