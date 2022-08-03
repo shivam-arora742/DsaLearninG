@@ -13,4 +13,5 @@
 <li>MIDDLE OF THE LIST</li>
 <li>ODD EVEN LIST</li>
 <li>Remove Duplicates from Sorted List.</li>
+<li>Iintersection of Two Lists(Leetcode Easy)</li>
 </ul>
