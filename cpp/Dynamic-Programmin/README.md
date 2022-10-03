@@ -6,4 +6,5 @@
    <li>Coin Change -Number of Ways.</li>
    <li> Pascal Triangle-Leetcode-Easy</li>
    <li>Leetcode-Climb Stairs-DP</li>
+   <li>Codechef- Dp- "Sum in a Triangle"</li>
 </ul>
