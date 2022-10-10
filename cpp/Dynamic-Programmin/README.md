@@ -10,4 +10,5 @@
    <li>Leetcode-DP-Easy-  "Get Maximum in Generated Array" </li>
    <li>Leetcode-DP Easy- "Nth Tribonacci Number"</li>
    <li>Leetcode-DP Easy- "Min COst Climb Stairs"</li>
+   <li>Leetcode-DP-Easy- Count Bits</li>
 </ul>
